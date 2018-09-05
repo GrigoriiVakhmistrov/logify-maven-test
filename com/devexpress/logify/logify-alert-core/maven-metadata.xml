@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.devexpress.logify</groupId>
-  <artifactId>logify-alert-android</artifactId>
+  <artifactId>logify-alert-core</artifactId>
   <versioning>
     <release>1.0.8</release>
     <versions>
