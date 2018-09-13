@@ -11,7 +11,7 @@
       <groupId>com.devexpress.logify</groupId>
       <artifactId>logify-alert-core</artifactId>
       <version>1.0.8</version>
-      <scope>compile</scope>
+      <scope>api</scope>
     </dependency>
   </dependencies>
 </project>
